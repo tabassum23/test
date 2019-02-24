@@ -49,4 +49,15 @@ namespace test123
     }
 }
 
+/*
+ 1. Take a number from user and inform whether that is EVEN or ODD number
+ 2. calculator
+
+    int i;
+    Console.WriteLine(
+ //Q) identify whether given number is even or odd WITHOUT USING ANY CONDITIONAL STATEMENTS
+
+     * /
+
+
 
